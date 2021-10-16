@@ -8,7 +8,7 @@
 
 整体样式可以参考我贡献的smqtt产品主页：
 
-![showcase](.\showcase.png)
+![showcase](showcase.png)
 
 ## 使用文档
 
