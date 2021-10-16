@@ -6,7 +6,7 @@
 
 ## 样式
 
-整体样式可以参考我贡献的smqtt产品主页：
+整体样式可以参考我贡献的smqtt产品主页，代码库：https://github.com/tangyiming/smqtt-site/tree/src
 
 ![showcase](showcase.png)
 
@@ -23,6 +23,14 @@ https://getnikola.com/getting-started.html#install
 ### build
 
 excute `nikola build` and checkout the output directory.
+
+## github 自动构建
+
+https://getnikola.com/blog/automating-nikola-rebuilds-with-github-actions.html
+
+## CNAME 
+
+需修改 files/CNAME 文件内容为你自己的域名
 
 
 
