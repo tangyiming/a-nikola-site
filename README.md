@@ -6,9 +6,7 @@
 
 ## 样式
 
-整体样式可以参考我贡献的smqtt产品主页，代码库：https://github.com/tangyiming/smqtt-site/tree/src
-
-![showcase](showcase.png)
+![demo](demo.png)
 
 ## 使用文档
 
@@ -31,6 +29,14 @@ https://getnikola.com/blog/automating-nikola-rebuilds-with-github-actions.html
 ## CNAME 
 
 需修改 files/CNAME 文件内容为你自己的域名
+
+## ShowCase
+### smqtt
+主页：https://www.smqtt.cc/
+
+代码库：https://github.com/tangyiming/smqtt-site/tree/src
+
+![showcase](showcase.png)
 
 
 
